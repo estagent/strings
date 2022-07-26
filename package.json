@@ -1,0 +1,14 @@
+{
+  "name": "@revgaming/strings",
+  "author": "estagent <estagent@gmail.com>",
+  "version": "1.0.0",
+  "description": "string plugins",
+  "homepage": "https://github.com/estagent/strings",
+  "main": "src/index.js",
+  "license": "ISC",
+  "keywords": [
+    "javascript",
+    "string",
+    "format"
+  ]
+}
